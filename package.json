@@ -1,0 +1,19 @@
+{
+  "name": "fi-mock",
+  "version": "1.0.0",
+  "description": "mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xieQin/fi-mock.git"
+  },
+  "author": "xieq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xieQin/fi-mock/issues"
+  },
+  "homepage": "https://github.com/xieQin/fi-mock#readme"
+}
